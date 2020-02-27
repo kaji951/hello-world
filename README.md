@@ -1,3 +1,3 @@
 # hello-world
 
-Hi I'm a hero!
+Hi I'm kaji!
