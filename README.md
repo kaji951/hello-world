@@ -1,4 +1,3 @@
 # hello-world
 
-Hi I'm kaji!
-Nice to meet you
+Hi I'm kaji! Nice to meet you!
